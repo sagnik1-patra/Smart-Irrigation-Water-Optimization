@@ -1,0 +1,43 @@
+best_params:
+  dropout: !!python/object/apply:numpy.core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    3zGN8JRkzD8=
+  learning_rate: !!python/object/apply:numpy.core.multiarray.scalar
+  - *id001
+  - !!binary |
+    mPv9+lL+gD8=
+  lstm_units: 110
+dataset_shape: !!python/tuple
+- 18815
+- 12
+input_features:
+- year
+- month
+- day
+- hour
+- minute
+- second
+- moisture0
+- moisture1
+- moisture2
+- moisture3
+- moisture4
+- irrgation
+model_type: Hybrid LSTM + ARIMA + GA
+r2: 0.0
+rmse: 2.868624694742549e-05
+target: irrgation

@@ -1,0 +1,29 @@
+{
+    "model_type": "Hybrid LSTM + ARIMA + GA",
+    "best_params": {
+        "lstm_units": 110,
+        "dropout": 0.22181951280289433,
+        "learning_rate": 0.008297584805175437
+    },
+    "rmse": 2.868624694742549e-05,
+    "r2": 0.0,
+    "input_features": [
+        "year",
+        "month",
+        "day",
+        "hour",
+        "minute",
+        "second",
+        "moisture0",
+        "moisture1",
+        "moisture2",
+        "moisture3",
+        "moisture4",
+        "irrgation"
+    ],
+    "target": "irrgation",
+    "dataset_shape": [
+        18815,
+        12
+    ]
+}

@@ -1,0 +1,10 @@
+best_max_depth: 7
+best_n_estimators: 224
+model_type: Hybrid AIS + PSO
+r2_score: 1.0
+rmse: 0.0
+selected_features:
+- year
+- day
+- minute
+- moisture1

@@ -1,0 +1,13 @@
+{
+    "model_type": "Hybrid AIS + PSO",
+    "selected_features": [
+        "year",
+        "day",
+        "minute",
+        "moisture1"
+    ],
+    "best_n_estimators": 224,
+    "best_max_depth": 7,
+    "rmse": 0.0,
+    "r2_score": 1.0
+}

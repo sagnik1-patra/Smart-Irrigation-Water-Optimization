@@ -1,0 +1,12 @@
+{
+    "dataset_used": "C:\\Users\\NXTWAVE\\Downloads\\Smart Irrigation & Water Optimization\\archive\\plant_vase1.CSV",
+    "num_records": 4117,
+    "rmse": null,
+    "r2_score": null,
+    "used_features": [
+        "year",
+        "day",
+        "minute",
+        "moisture1"
+    ]
+}

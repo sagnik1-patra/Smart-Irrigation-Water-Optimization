@@ -1,0 +1,7 @@
+{
+    "RMSE": 2.868624694742549e-05,
+    "R2_Score": 0.0,
+    "LSTM_Prediction_Sample": 3.9540194848086685e-05,
+    "ARIMA_Prediction_Sample": 0.0,
+    "Hybrid_Prediction_Sample": 2.3724118545942473e-05
+}
