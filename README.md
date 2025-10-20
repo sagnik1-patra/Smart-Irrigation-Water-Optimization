@@ -1,7 +1,7 @@
 🌿 AquaHarvest — AI-Based Smart Irrigation & Water Optimization.
 
 Hybrid Model: Artificial Immune System (AIS) + Particle Swarm Optimization (PSO)
-Developed by: Annan Sadr
+Developed by: Sagnik Patra
 
 🧠 Overview
 
